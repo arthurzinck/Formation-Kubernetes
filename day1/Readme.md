@@ -61,12 +61,16 @@ Ils hebergent les application qui font fonctionner le cluster.
 
 ## Installation de minikube ou de kind
 
-[doc d'installation de minikube](https://kubernetes.io/fr/docs/tasks/tools/install-minikube/)
 
-[Doc d'installation de kind](https://kubernetes.io/fr/docs/tasks/tools/install-kubectl/)
+Pour avoir un cluster sur votre machine, vous pouvez utilisez : 
+* miniKube:  
+    * [doc d'installation de minikube](https://minikube.sigs.k8s.io/docs/start/)    
+* Kind :
+    * [Doc d'installation de kind](https://kind.sigs.k8s.io/docs/user/quick-start/#installing-from-release-binaries)
+    * [Doc de configuration de kind](https://kind.sigs.k8s.io/docs/user/quick-start/#creating-a-cluster)
 
-[Doc d'installation de kubectl](https://kubernetes.io/fr/docs/tasks/tools/install-kubectl/)
-
+Pour pouvoir communiquer avec votre cluster vous aurez besoin de Kubectl
+[Doc d'installation de kubectl](https://kubernetes.io/fr/docs/tasks/tools/install-kubectl/#installation-%C3%A0-l-aide-des-gestionnaires-des-paquets-natifs)
 
 ## Les Objet Kube
 
