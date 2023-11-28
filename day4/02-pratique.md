@@ -21,7 +21,7 @@ Il doit contenir:
 * NUM_CARTE_BLEU
 * CODE_CARTE_BLEU
   
-Fournissez le fichier YAML utilisé pour le déploiement et la configmap.
+Fournissez le fichier YAML utilisé pour le déploiement et la secret.
 
 ## Exercice 5: 
 Configurez un service dans Kubernetes pour exposer le serveur web déployé dans l'exercice précédent. Fournissez le fichier YAML du service et démontrez comment accéder au serveur web depuis l'extérieur du cluster.
