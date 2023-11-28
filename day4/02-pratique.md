@@ -23,10 +23,10 @@ Il doit contenir:
   
 Fournissez le fichier YAML utilisé pour le déploiement et la configmap.
 
-## Exercice 4: 
+## Exercice 5: 
 Configurez un service dans Kubernetes pour exposer le serveur web déployé dans l'exercice précédent. Fournissez le fichier YAML du service et démontrez comment accéder au serveur web depuis l'extérieur du cluster.
 
-## Exercice 5: 
+## Exercice 6: 
 Créer un chart Helm. Modifier le helm chart pour qu'il y ai 2 deploiement un pour wordpress l'autre pour Mysql. Documentez les étapes et les commandes utilisées pour l'installation.
 
 
